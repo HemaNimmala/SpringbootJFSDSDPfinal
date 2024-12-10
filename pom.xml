@@ -11,10 +11,12 @@
 	<groupId>com.toursandtravel</groupId>
 	<artifactId>SDPJFSD-ICM</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>tours-and-travels-backend</name>
 	<description>Tours and Travel backend using Spring Boot</description>
 	<properties>
-		<java.version>21</java.version>
+	
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
